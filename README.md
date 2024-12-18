@@ -1,4 +1,4 @@
-# integrating_gpt_gradio
+# Integrating GPT in Gradio
 Implementing streaming responses with GPT in Gradio
 
 Import Gradio
